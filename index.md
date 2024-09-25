@@ -8,3 +8,6 @@ He creado dos marcas de etiquetas de titulo h1 y h6
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
